@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Darkdustry-Coders.github.io/DarkdustrySite/static/css/main.a230ebda.css",
-    "main.js": "/Darkdustry-Coders.github.io/DarkdustrySite/static/js/main.2e03f188.js",
-    "static/js/787.af6d836e.chunk.js": "/Darkdustry-Coders.github.io/DarkdustrySite/static/js/787.af6d836e.chunk.js",
-    "static/media/Attack.png": "/Darkdustry-Coders.github.io/DarkdustrySite/static/media/Attack.529aba5b9bf963c068c7.png",
-    "index.html": "/Darkdustry-Coders.github.io/DarkdustrySite/index.html",
-    "main.a230ebda.css.map": "/Darkdustry-Coders.github.io/DarkdustrySite/static/css/main.a230ebda.css.map",
-    "main.2e03f188.js.map": "/Darkdustry-Coders.github.io/DarkdustrySite/static/js/main.2e03f188.js.map",
-    "787.af6d836e.chunk.js.map": "/Darkdustry-Coders.github.io/DarkdustrySite/static/js/787.af6d836e.chunk.js.map"
+    "main.css": "/DarkdustrySite/static/css/main.a230ebda.css",
+    "main.js": "/DarkdustrySite/static/js/main.3fe54086.js",
+    "static/js/787.af6d836e.chunk.js": "/DarkdustrySite/static/js/787.af6d836e.chunk.js",
+    "static/media/Attack.png": "/DarkdustrySite/static/media/Attack.529aba5b9bf963c068c7.png",
+    "index.html": "/DarkdustrySite/index.html",
+    "main.a230ebda.css.map": "/DarkdustrySite/static/css/main.a230ebda.css.map",
+    "main.3fe54086.js.map": "/DarkdustrySite/static/js/main.3fe54086.js.map",
+    "787.af6d836e.chunk.js.map": "/DarkdustrySite/static/js/787.af6d836e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a230ebda.css",
-    "static/js/main.2e03f188.js"
+    "static/js/main.3fe54086.js"
   ]
 }
