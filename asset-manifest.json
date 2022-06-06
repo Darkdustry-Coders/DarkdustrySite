@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DarkdustrySite/static/css/main.a230ebda.css",
-    "main.js": "/DarkdustrySite/static/js/main.30ed9650.js",
+    "main.css": "/DarkdustrySite/static/css/main.f0fbe12f.css",
+    "main.js": "/DarkdustrySite/static/js/main.2641f4fa.js",
     "static/js/787.af6d836e.chunk.js": "/DarkdustrySite/static/js/787.af6d836e.chunk.js",
     "static/media/Attack.png": "/DarkdustrySite/static/media/Attack.529aba5b9bf963c068c7.png",
     "index.html": "/DarkdustrySite/index.html",
-    "main.a230ebda.css.map": "/DarkdustrySite/static/css/main.a230ebda.css.map",
-    "main.30ed9650.js.map": "/DarkdustrySite/static/js/main.30ed9650.js.map",
+    "main.f0fbe12f.css.map": "/DarkdustrySite/static/css/main.f0fbe12f.css.map",
+    "main.2641f4fa.js.map": "/DarkdustrySite/static/js/main.2641f4fa.js.map",
     "787.af6d836e.chunk.js.map": "/DarkdustrySite/static/js/787.af6d836e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a230ebda.css",
-    "static/js/main.30ed9650.js"
+    "static/css/main.f0fbe12f.css",
+    "static/js/main.2641f4fa.js"
   ]
 }
