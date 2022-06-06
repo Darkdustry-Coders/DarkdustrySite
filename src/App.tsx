@@ -5,7 +5,7 @@ import NavBar from './components/UI/NavBar';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/DarkdustrySite'>
       <NavBar />
       <Router />
     </BrowserRouter>

@@ -21,6 +21,24 @@
       href="https://fonts.googleapis.com/css2?family=Poppins&family=Ubuntu&display=swap"
       rel="stylesheet"
     />
+    <script type="text/javascript">
+      (function (location) {
+        if (location.search[1] === '/') {
+          var decoded = l.search
+            .slice(1)
+            .split('&')
+            .map(function (s) {
+              return s.replace(/~and~/g, '&');
+            })
+            .join('?');
+          window.history.replaceState(
+            null,
+            null,
+            location.pathname.slice(0, -1) + decoded + location.hash
+          );
+        }
+      })(window.location);
+    </script>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
