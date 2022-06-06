@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import Card from '../UI/Card';
+import Card from '../UI/Card/Card';
 import { cards } from '../UI/assets/modesAssets';
 import Helmet from 'react-helmet';
 
