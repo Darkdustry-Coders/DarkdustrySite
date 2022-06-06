@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  color: #ffffffd8;
+  font-family: 'Poppins', 'Ubuntu';
+}
+
+body {
+  background: #2a2a2a;
+}
